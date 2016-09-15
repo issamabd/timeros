@@ -1,0 +1,14 @@
+.directory
+*~
+boot/*~
+boot/*.o
+boot/boot
+system
+Image
+system.map
+include/*~
+init/*~
+init/*.o
+kernel/*~
+kernel/*.o
+

@@ -1,0 +1,15 @@
+TimerOS:
+========
+
+TimerOS is an OS coding example that may help you to begin OS developing. It will not 
+do much things. Just, it will print a message in real mode when loading the 
+system into the memory. Then, it will use the timer interrupt to print the time
+in protected mode. The time will be updated everytime a timer interrupt (IRQ0) is 
+generated. In other words, this example will turn your PC into a digital clock :)
+
+
+Example Website: http://issamabd.com/timeros
+
+Copyright (C) 2013-2016 Issam Abdallah, Tunisia
+Email:iabdallah@yandex.com
+Web Site: issamabd.com 
